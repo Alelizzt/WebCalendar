@@ -142,7 +142,7 @@ h2{font-size:12px;}
   {
   body{background:white !important;}
   header,#botones button,#calendarios{display:none !important;}
-  h1,h2{text-align:left important!;margin:auto !important;display:block !important;padding:0px !important;margin:0px !important;width:100px !important;}
+  h1,h2{text-align:left !important;margin:auto !important;display:block !important;padding:0px !important;margin:0px !important;width:100px !important;}
   #aniotitulo{text-align:center !important;}
   #tituloprint{display:none !important;}
   #aniotitulo{display:none;}
